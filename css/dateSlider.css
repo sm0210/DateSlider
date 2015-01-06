@@ -31,6 +31,7 @@
 	margin: 0px;
 	padding: 0px;
 	background: transparent url(../images/dateSilderMove.png) repeat-x;
+	cursor:pointer;
 }
 
 /*拖拽按钮*/
